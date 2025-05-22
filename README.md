@@ -89,7 +89,25 @@ brew install gtk+3 sqlite3 openssl libglade
 ```
 
 ## Screenshots
+### Authentication
+![Authentication](.github/auth.png)
+*Login and registration interface with Sign In/Sign Up tabs*
 
+### Main Chat Interface
+![Main Interface](.github/main.png)
+*Main chat window showing message history, user list, and real-time messaging*
+
+### Chat Settings
+![Chat Settings](.github/settings.png)
+*Group chat management with member list and user administration*
+
+### Chat Creation
+![Chat Creation](.github/chat_creation.png)
+*Create new chat dialog with contact search and selection*
+
+### Message Search
+![Message Search](.github/message_search.png)
+*Search functionality to find messages across chat history with user mentions*
 
 ## Technical Details
 
